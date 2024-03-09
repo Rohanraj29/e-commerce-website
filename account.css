@@ -1,0 +1,107 @@
+body{
+    width: 1500px;
+}
+img {
+    height: 25px;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+.nav {
+    position: relative;
+    left: 400px;
+    bottom: 25px;
+    width: 400px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    margin-right: 18px;
+}
+.images img{
+    height: 400px;
+}
+.images {
+    width: 200px;
+    position: relative;
+    top: 150px;
+    right: 60px;
+}
+.banner {
+    background-color: pink;
+    height: 1000px;
+}
+.register h2{
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+.register {
+    height: 380px;
+    position: relative;
+    left: 440px;
+    width: 380px;
+    background-color: #fff;
+    bottom: 250px;
+    font-family: sans-serif;
+}
+input[type="text"] {
+    margin-top: 25px;
+    width: 300px;
+    height: 25px;
+    position: relative;
+    left: 50px;
+    border: 1px solid blue;
+    padding: 4px;
+}
+input[type="password"] {
+    margin-top: 25px;
+    height: 25px;
+    width: 300px;
+    position: relative;
+    left: 50px;
+    border: 1px solid blue;
+    padding: 4px;
+}
+.register button {
+    position: relative;
+    top: 50px;
+    right: 160px;
+    cursor: pointer;
+    width: 300px;
+    left: 50px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: #ff523b;
+    color: white;
+}
+.login {
+    width: 380px;
+    background-color: white;
+    position: relative;
+    left: 440px;
+    bottom: 200px;
+    height: 320px;
+}
+.login h2{
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+.login a{
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
+.login button{
+    position: relative;
+    top: 50px;
+    right: 160px;
+    cursor: pointer;
+    width: 300px;
+    left: 45px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: #ff523b;
+    color: white;
+}
